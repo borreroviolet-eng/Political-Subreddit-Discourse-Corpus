@@ -74,3 +74,8 @@ Raw comment text isn't included here, out of respect for Reddit users and Reddit
 
 - Crawford, W., & Csomay, E. (2016). *Doing Corpus Linguistics.* Routledge.
 - Davies, M. (n.d.). English-Corpora.org. https://www.english-corpora.org/
+
+## License
+
+Code is released under the [MIT License](LICENSE). The paper and
+documentation are licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
